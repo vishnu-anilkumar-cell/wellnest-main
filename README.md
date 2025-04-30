@@ -8,18 +8,6 @@
 - **Real-time Alerts:** Sends notifications when emotional distress or negative sentiments are detected in social media posts.
 - **User-Friendly Interface:** A simple, intuitive interface that displays emotional analytics and resources for mental health support.
 
-## Folder Structure
-wellnest-main/ (Client-side mobile app for the user)
-├── android/             # Android-specific files for the app
-├── assets/              # App assets like images, fonts, etc.
-├── build/               # Build outputs
-├── firebase.json        # Firebase configuration file
-├── ios/                 # iOS-specific files for the app
-├── lib/                 # Main Flutter application code
-├── linux/               # Linux platform-specific files
-├── macos/               # macOS platform-specific files
-├── test/                # Test files for the app
-└── etc/                 # Other platform-specific file
 
 ## Installation
 
