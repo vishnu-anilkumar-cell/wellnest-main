@@ -28,13 +28,14 @@ To set up and run the **Wellnest** Flutter client app locally, follow these step
    git clone https://github.com/your-username/wellnest-main.git
    cd wellnest-main
 2.	Install dependencies:
+	```bash
     flutter pub get
-3.	Set up Firebase:
+4.	Set up Firebase:
 	•	Go to the Firebase Console.
 	•	Create a new Firebase project.
 	•	Set up Firebase Cloud Messaging (FCM) and download the google-services.json for Android and GoogleService-Info.plist for iOS.
 	•	Place the configuration files in their respective platform folders (android/app/ for Android, ios/Runner/ for iOS).
-4.	Run the application:
+5.	Run the application:
 To run the application on an emulator or connected device, use:
     ```bash
 	flutter run
