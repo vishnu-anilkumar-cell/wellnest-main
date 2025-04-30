@@ -44,20 +44,5 @@ Firebase Setup
 	1.	Ensure Firebase is properly configured for both Android and iOS platforms.
 	2.	Add the necessary configuration files (google-services.json for Android and GoogleService-Info.plist for iOS) to their respective directories in the project.
 
-Contributing
 
-We welcome contributions! If you’d like to contribute to the project, follow these steps:
-	1.	Fork the repository.
-	2.	Create a new branch (git checkout -b feature/your-feature).
-	3.	Commit your changes (git commit -am 'Add new feature').
-	4.	Push to the branch (git push origin feature/your-feature).
-	5.	Open a pull request.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-	•	Flutter for building cross-platform mobile applications.
-	•	Firebase for push notifications and real-time features.
- This updated README highlights that it's the **client-side** mobile app and provides all the necessary instructions for setting up and running the app. Let me know if you need further adjustments!
