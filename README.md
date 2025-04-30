@@ -36,8 +36,8 @@ To set up and run the **Wellnest** Flutter client app locally, follow these step
 	•	Place the configuration files in their respective platform folders (android/app/ for Android, ios/Runner/ for iOS).
 4.	Run the application:
 To run the application on an emulator or connected device, use:
-    flutter run
-
+    ```bash
+	flutter run
 
 Firebase Setup
 	1.	Ensure Firebase is properly configured for both Android and iOS platforms.
